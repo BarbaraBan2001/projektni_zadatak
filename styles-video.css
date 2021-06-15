@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7db7e4;
+}
+
+video {
+	margin: auto;
+}
+
+p {
+  color: #fbfafa;
+  max-width: 500px;
+  margin-left: 20px;
+  text-align: center;
+}

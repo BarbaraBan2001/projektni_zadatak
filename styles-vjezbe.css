@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #7db7e4;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+img {
+	max-height: 500px;
+	margin-top: 50px;
+	border: 2px solid black;
+}
+
+object {
+	margin-top: 50px;
+	height: 500px;
+}
